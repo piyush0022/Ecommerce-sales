@@ -2,7 +2,8 @@
 
 This repository contains the Power BI dashboard for E-Commerce Sales. This dashboard provides a comprehensive overview of the sales performance, profit, and other key metrics of an e-commerce platform across different states, categories, and time periods.
 
-![E-Commerce Sales Dashboard](./path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/a7c4834a-7318-4f3e-832f-743f22cdb95d)
+
 
 ## Features
 
@@ -18,7 +19,6 @@ This repository contains the Power BI dashboard for E-Commerce Sales. This dashb
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Data Source](#data-source)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
